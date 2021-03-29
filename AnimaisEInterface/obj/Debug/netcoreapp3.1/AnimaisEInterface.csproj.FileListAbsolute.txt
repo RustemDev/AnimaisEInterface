@@ -1,0 +1,13 @@
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.csprojAssemblyReference.cache
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.AssemblyInfoInputs.cache
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.AssemblyInfo.cs
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.csproj.CoreCompileInputs.cache
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.exe
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.deps.json
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.runtimeconfig.json
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.runtimeconfig.dev.json
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.dll
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\bin\Debug\netcoreapp3.1\AnimaisEInterface.pdb
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.dll
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.pdb
+C:\Projetos\ClassesEInterfaces\AnimaisEInterface\obj\Debug\netcoreapp3.1\AnimaisEInterface.genruntimeconfig.cache
